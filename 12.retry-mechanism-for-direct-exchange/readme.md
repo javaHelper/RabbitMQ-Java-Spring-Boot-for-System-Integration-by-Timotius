@@ -1,5 +1,7 @@
 # Retry Mechanism For Direct Exchange!
 
+Note: Please make sure to run Postman - "Retry(Direct)"
+
 <img width="1061" alt="Screenshot 2022-12-29 at 8 16 21 PM" src="https://user-images.githubusercontent.com/54174687/209969555-4baed8b6-3185-446b-abc6-525df6f75ba1.png">
 
 
