@@ -1,5 +1,7 @@
 # Exception Handling with DLX Solu-2
 
+Manual rejection is risky and not recommanded.
+
 <img width="865" alt="Screenshot 2022-12-29 at 7 36 07 PM" src="https://user-images.githubusercontent.com/54174687/209966111-5c6ddb74-6738-4d77-88da-80c3c707661d.png">
 
 <img width="884" alt="Screenshot 2022-12-29 at 7 36 31 PM" src="https://user-images.githubusercontent.com/54174687/209966123-f17ee3d1-6a34-4dc0-bce5-7198a30d386c.png">
