@@ -1,5 +1,7 @@
 # Dead Letter Exchange
 
+This is recommanded approach. 
+
 - Exception might happened 
 - Spring By default will require message
 - Infinte Consumer loop
